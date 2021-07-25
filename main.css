@@ -1,3 +1,7 @@
-body {
-    background-color:rgba(0, 247, 255, 0.288);
-    }
+#rocks {
+    background-color: gray;
+  }
+  
+  #pies {
+    background-color: blue;
+  }
